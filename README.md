@@ -1,4 +1,4 @@
-# README for TinDog Website
+# TinDog (Tinder for Dogs)
 
 ## Table of Contents
 1. [Introduction](#introduction)
